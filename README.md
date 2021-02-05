@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, I am Sören Sommer
 
-<!--
-**Soeren3003/Soeren3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a `Fireworkcontrol-App for iOS`
+- 🌱 I’m currently learning Swift
+- 📫 Drop an email: webseite@sommer-sh.de
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<center> <h2>Hi 👋, I am Kevin Chromik</h2> </center>
+
+- 🔭 I’m currently working on `Poker Planning Community Project`
+- 🌱 I’m currently learning reactive programming with `Combine`
+- 📹 I regularly publish videos on https://www.youtube.com/kevinchromik
+- 📫 Drop an email: hi@kchromik.com
